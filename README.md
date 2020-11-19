@@ -1,0 +1,1 @@
+The goal of this project is to replicate the google homepage to the best of my current ability. In this project, I have demonstrated the following skills: 
