@@ -1,6 +1,6 @@
 The goal of this project is to replicate the google homepage to the best of my current ability. In this project, I have demonstrated the following skills:
 1. I used anchors nested inside of list elements in order to create an organized header and footer.
-2. I used CSS flex in order to align the contents of my <main>.
+2. I used CSS flex in order to align the contents of my main.
 3. I demonstrated knowledge and usage of common CSS attributes and techniques. 
 4. I demonstrated my ability to keep organized and readable code. 
 5. I learned how to contain icons inside of input boxes. 
