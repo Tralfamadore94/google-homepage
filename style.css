@@ -85,6 +85,10 @@ a:hover{
 }
 #icon{
     position: relative; 
+    top: 23px;
+    left: 8px;
+    width: 24px;
+    height: 24px;
     color: #9AA0A6;
     line-height: 24px;
 }
